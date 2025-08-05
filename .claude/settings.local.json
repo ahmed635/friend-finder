@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(rmdir:*)",
+      "Bash(del package-lock.json)",
+      "Bash(cmd /c \"rmdir /s /q node_modules\")",
+      "Bash(cmd /c:*)"
+    ],
+    "deny": []
+  }
+}

@@ -5,7 +5,11 @@
       "Bash(rmdir:*)",
       "Bash(del package-lock.json)",
       "Bash(cmd /c \"rmdir /s /q node_modules\")",
-      "Bash(cmd /c:*)"
+      "Bash(cmd /c:*)",
+      "Bash(npx:*)",
+      "Bash(npm install:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": []
   }

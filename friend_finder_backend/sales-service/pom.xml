@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.spring.sales</groupId>
-    <artifactId>sales-service</artifactId>
+    <artifactId>sales</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>sales-service</name>
     <description>service about any integration about sales</description>

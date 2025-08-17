@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.spring.userservice</groupId>
-    <artifactId>sales</artifactId>
+    <artifactId>user</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>user-service</name>
     <description>service about any integration about user details</description>
